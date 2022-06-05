@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['923032595348']
-global.premium = ['923032595348']
-global.ownernomer = '923032595348'
-global.ownername = '🦄Dream Guy 𝐑𝐨͜͡͡𝐦𝐞𝐨̚  ⸙ 爾 '
-global.botname = '𝐑𝐨͜͡͡𝐦𝐞os Bot MD V2'
-global.footer = '𝐑𝐨͜͡͡𝐦𝐞𝐨̚  ⸙ 爾  Bot Inc.'
+global.owner = ['923032112917']
+global.premium = ['923032112917']
+global.ownernomer = '923032112917'
+global.ownername = '🦄Dream Guy 𝗔𝗬𝗔𝗭'
+global.botname = '𝗔𝗬𝗔𝗭 Bot MD V2'
+global.footer = '𝗔𝗬𝗔𝗭 Bot Inc.'
 global.ig = 'https://github.com/DGXeon'
 global.region = 'India, NorthEast, Mizoram'
-global.sc = 'wa.me/923032595348'
+global.sc = 'wa.me/923032112917'
 global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = '𝐑𝐨͜͡͡𝐦𝐞𝐨̚  ⸙ 爾  Bot'
-global.author = '🦄Dream Guy 𝐑𝐨͜͡͡𝐦𝐞𝐨̚  ⸙ 爾 '
+global.packname = '𝗔𝗬𝗔𝗭 Bot'
+global.author = '🦄Dream Guy 𝗔𝗬𝗔𝗭'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
